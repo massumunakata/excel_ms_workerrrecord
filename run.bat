@@ -1,0 +1,1 @@
+powershell .\MS_salary.ps1
